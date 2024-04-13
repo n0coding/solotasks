@@ -1,7 +1,7 @@
-# Solo Tasks
+Solo Tasks
 
-A new Flutter project.
+Efficient task management app, Solo Tasks, usable without an internet connection
 
-## Getting Started
+Solo Tasks is an offline-based task management app that allows you to manage your tasks anytime, anywhere. It’s designed for easy use without complicated settings, aimed at enhancing personal productivity. With Solo Tasks, you can easily add, edit, and delete tasks, as well as organize your schedule more systematically through sorting and filtering capabilities. With Solo Tasks, check and manage your important tasks anytime, regardless of internet connectivity. 
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Try Solo Tasks now!
