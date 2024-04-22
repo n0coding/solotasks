@@ -1,3 +1,5 @@
+https://play.google.com/store/apps/details?id=com.tineung.solotasks
+
 Solo Tasks
 
 Efficient task management app, Solo Tasks, usable without an internet connection
